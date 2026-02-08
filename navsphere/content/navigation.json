@@ -1211,6 +1211,14 @@
               "description": "Free online PDF tools for merging, splitting, compressing, and converting PDF files. All processing happens in your browser for maximum privacy.",
               "icon": "/assets/favicon_1770548532018.svg",
               "enabled": true
+            },
+            {
+              "id": "site_1770548576914_nma6v4hx0",
+              "title": "IT Tools - Handy online tools for developers",
+              "href": "https://ittool.sung.cc.cd/",
+              "description": "Collection of handy online tools for developers, with great UX. IT Tools is a free and open-source collection of handy online tools for developers & people working in IT.",
+              "icon": "https://ittool.sung.cc.cd/favicon.ico",
+              "enabled": true
             }
           ],
           "enabled": true
