@@ -1203,6 +1203,14 @@
               "description": "App Screenshot Generator for App Store&Google Play,Create panoramic screenshots for iOS and Android apps. No account needed.",
               "icon": "/assets/img_1735258064656.webp",
               "enabled": true
+            },
+            {
+              "id": "site_1770548543151_hrk909wii",
+              "title": "PDFCraft - Professional PDF Tools",
+              "href": "https://pdfcraft.sung.cc.cd/",
+              "description": "Free online PDF tools for merging, splitting, compressing, and converting PDF files. All processing happens in your browser for maximum privacy.",
+              "icon": "/assets/favicon_1770548532018.svg",
+              "enabled": true
             }
           ],
           "enabled": true
