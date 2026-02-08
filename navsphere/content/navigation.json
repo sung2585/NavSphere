@@ -1227,6 +1227,14 @@
               "description": "",
               "icon": "https://omnitools.sung.cc.cd/favicon-96x96.png",
               "enabled": true
+            },
+            {
+              "id": "site_1770557943571_7svi1d67s",
+              "title": "JSON Crack | Online JSON Viewer - Transform your data into interactive graphs",
+              "href": "https://jsoncrack.sung.cc.cd",
+              "description": "JSON Crack Editor is a tool for visualizing into graphs, analyzing, editing, formatting, querying, transforming and validating JSON, CSV, YAML, XML, and more.",
+              "icon": "/assets/favicon_1770557934214.ico",
+              "enabled": true
             }
           ],
           "enabled": true
